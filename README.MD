@@ -14,15 +14,15 @@ It's a simple block so it can easily be remixed into a custom mount of your desi
 
 Hardware needed.
 
-A single hobb extruder kit
-m5 x40 hex bolt - pan , hex or socket head will work.
-M5 nut
-8 x M3 x 14mm screws
-8 M3 nuts
-2 x m3 x 6 screws
-2 x 625 bearings ( I scavenged some from old carriage wheels )
-Whatever M3 lengths your extruder needs
-1 optical end stop
+A single hobb extruder kit        
+m5 x40 hex bolt - pan , hex or socket head will work.      
+M5 nut      
+8 x M3 x 14mm screws      
+8 M3 nuts      
+2 x m3 x 6 screws      
+2 x 625 bearings ( I scavenged some from old carriage wheels )      
+Whatever M3 lengths your extruder needs      
+1 optical end stop      
 
 You need to have M600 Filament change enabled in Marlin and M412 enabled for runout detection with a runout distance set. If Marlin does not see a pulse from the sensor in the set filament runout distance it will trigger an M600 to unload and let you re feed the filament.
 
