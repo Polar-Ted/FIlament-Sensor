@@ -1,3 +1,5 @@
+[Original THingiverse post](https://www.thingiverse.com/thing:4781812)
+
 The Cube is an optical filament motion sensor designed to use your old direct drive hobb gear extruder, The body mimics a Nema 17 stepper so almost any extruder kit can be used to guild the filament. The encoder has 36 slots and should provide down to 2mm jam or runout detection. I have tested it running at 5mm.
 It will work with whatever size filament your extruder kit can handle and since it's driving an encoder wheel material transparency isn't an issue.
 
